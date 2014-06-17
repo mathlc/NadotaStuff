@@ -1,0 +1,14 @@
+So far:
+
+        Better ignore -> Done 
+        AutoUpdate -> Not yet started(Use jquerry to add the new post <li> after the last post?)  
+        Interface to select options -> Not yet started
+        Infinite posts in a page -> Not yet started(Probably next, sounds easy)
+        Unlinking ads -> doing this 
+        
+        
+        
+        --------------------------------------------
+        Better moblike skin????(I plan on start messing with that shit at some point)
+        Changing stream list so people can add streams manually?
+        
